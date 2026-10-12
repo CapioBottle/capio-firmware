@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2.0.7",
-  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.7/capio_v2.0.7_dfu.zip",
-  "sha256": "f1e5a0c99af005b90baa0ee8ed0baf6427ba36dee73d1cebd697e531cfd89e8e",
-  "size": 163980,
+  "version": "2.0.12",
+  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.12/capio_v2.0.12_dfu.zip",
+  "sha256": "f8557af20883419ab18286b5c14189ad85d93c614eb72ed02d79ba846a7a5d37",
+  "size": 161792,
   "minBottleVersion": "2.0.0",
-  "releasedAt": "2026-10-11",
-  "notes": "First over-the-air release."
+  "releasedAt": "2026-10-12",
+  "notes": "Work Sans font, gray screen fix (fast refresh while Bluetooth icon shows, full refresh after), one refresh per dose"
 }
