@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "2.0.7",
+  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.7/capio_v2.0.7_dfu.zip",
+  "sha256": "f1e5a0c99af005b90baa0ee8ed0baf6427ba36dee73d1cebd697e531cfd89e8e",
+  "size": 163980,
+  "minBottleVersion": "2.0.0",
+  "releasedAt": "2026-10-11",
+  "notes": "First over-the-air release."
+}
