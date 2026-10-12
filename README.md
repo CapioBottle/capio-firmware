@@ -22,7 +22,7 @@ the bottle over Bluetooth. You don't need to download anything here yourself.
   "version": "2.0.7",
   "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.7/capio_v2.0.7_dfu.zip",
   "sha256": "…",
-  "size": 163656,
+  "size": 163980,
   "minBottleVersion": "2.0.0",
   "releasedAt": "2026-10-11",
   "notes": "…"
