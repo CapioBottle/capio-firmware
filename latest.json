@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2.0.13",
-  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.13/capio_v2.0.13_dfu.zip",
-  "sha256": "e0033e32fdcd0b4f74b7edd7dd2ad43f1f4e5ade4c01cd2ebf8177472755f968",
+  "version": "2.0.14",
+  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.14/capio_v2.0.14_dfu.zip",
+  "sha256": "dae33445d1707d44a4d8965b25bd678c80361bf2f8783986726222412d49ab9e",
   "size": 161788,
   "minBottleVersion": "2.0.0",
   "releasedAt": "2026-10-13",
-  "notes": "Battery gauge: a new battery now shows full (curve matched to the CR2477's real ~2.8V plateau)"
+  "notes": "Battery icon looks full at 100%; new battery shows full"
 }
