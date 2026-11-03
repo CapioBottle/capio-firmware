@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2.0.14",
-  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.14/capio_v2.0.14_dfu.zip",
-  "sha256": "dae33445d1707d44a4d8965b25bd678c80361bf2f8783986726222412d49ab9e",
-  "size": 161788,
+  "version": "2.0.15",
+  "url": "https://github.com/CapioBottle/capio-firmware/releases/download/v2.0.15/capio_v2.0.15_dfu.zip",
+  "sha256": "21b483ef1e9c3c43084e241c68460156efc2301c6cc064105460294f1044537b",
+  "size": 162044,
   "minBottleVersion": "2.0.0",
-  "releasedAt": "2026-10-13",
-  "notes": "Battery icon looks full at 100%; new battery shows full"
+  "releasedAt": "2026-11-02",
+  "notes": "Restore support: app can read schedule, windows and name back"
 }
